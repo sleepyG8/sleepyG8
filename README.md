@@ -15,5 +15,4 @@ Welcome to my GitHub profile. I specialize in low-level C development, focusing 
 
 - Website: [sleepyG8.github.io](https://sleepyG8.github.io)
 - Contact: [Discord](https://discord.gg/XW7A9nHa)
-- 
 
