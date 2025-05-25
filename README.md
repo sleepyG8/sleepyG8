@@ -22,7 +22,7 @@ Welcome to my GitHub profile. I specialize in low-level C development, focusing 
 ---
 
 [![Total Stars](https://img.shields.io/github/stars/sleepyG8?affiliations=OWNER&style=flat-square)](https://github.com/sleepyG8?tab=repositories)
-
+![Visitor Badge](https://komarev.com/ghpvc/?username=sleepyG8&label=Visitors&color=0e75b6&style=flat)
 ---
 
 ## 🧰 GitHub Stats
