@@ -18,3 +18,16 @@ Welcome to my GitHub profile. I specialize in low-level C development, focusing 
 - Website: [sleepyG8.github.io](https://sleepyG8.github.io)
 - Contact: [Discord](https://discord.gg/XW7A9nHa)
 - join the room: [Forum](https://coinzh.in/forum)
+
+---
+
+[![Total Stars](https://img.shields.io/github/stars/sleepyG8?affiliations=OWNER&style=flat-square)](https://github.com/sleepyG8?tab=repositories)
+
+---
+
+## 🧰 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sleepyG8&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyG8&layout=compact&theme=github_dark)
+
