@@ -4,7 +4,7 @@ Self-taught systems programmer | Reverse engineer | Security researcher
 
 Welcome to my GitHub profile. I specialize in low-level C development, focusing on reverse engineering, debugging tools, and security research.
 
-(E56F9B52-67F8-48F3-97DD-8EC7DD45806F.png)
+[View the PDF Document](E56F9B52-67F8-48F3-97DD-8EC7DD45806F.png)
 
 ## 🔧 Go deeper with some of my projects and POCs
 
