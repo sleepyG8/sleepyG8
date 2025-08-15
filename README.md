@@ -16,7 +16,7 @@ I specialize in low-level C development, focusing on reverse engineering, debugg
 ## 📫 Contact
 
 - Website: [sleepyG8.github.io](https://sleepyG8.github.io)
-- Contact: [Discord](https://discord.gg/jCjGgvuM)
+- Contact: [New Discord](https://discord.gg/RCy5ePgF)
 - join the room: [Forum](https://coinzh.in/forum)
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=sleepyG8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
